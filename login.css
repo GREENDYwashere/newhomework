@@ -1,0 +1,43 @@
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.LogInContainer{
+    width: 40%;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+
+h1{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid black 1px;
+
+}
+
+ input{
+    border: none;
+border-bottom: 1px solid black;
+margin-bottom: 20px;
+width: 70%;
+height:  30px;
+
+
+ }
+
+ a{
+    font-size: small;
+    text-decoration: none ;
+ }
+
+
+
+
+
+
+
